@@ -1,2 +1,4 @@
-title: "Aqischa's-Blogpost"
+---
+title: "aqischa's-personal-blog"
 date: 2025-06-20
+---
